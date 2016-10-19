@@ -2,6 +2,12 @@
 
 Finesse.css snippets for Sublime Text.
 
+## Installation
+
+```
+git clone git@github.com:sweetroll/finesse-snippets-sublime.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/finesse-sublime-snippets
+```
+
 ## Code Snippets
 
 ### mq
