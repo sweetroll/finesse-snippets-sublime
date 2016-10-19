@@ -1,4 +1,4 @@
-# CSharpSnippets
+# finesse-snippets-sublime
 
 Finesse.css snippets for Sublime Text.
 
