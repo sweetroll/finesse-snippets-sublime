@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+getColour('${1}',${2:''});
+]]></content>
+    <tabTrigger>gc</tabTrigger>
+    <scope>source.scss</scope>
+</snippet>

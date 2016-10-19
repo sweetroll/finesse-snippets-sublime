@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+\$base-spacing-unit
+]]></content>
+    <tabTrigger>bsu</tabTrigger>
+    <scope>source.scss</scope>
+</snippet>

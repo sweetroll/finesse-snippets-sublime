@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+@include media-query(${1}) {
+    ${2}
+}
+]]></content>
+    <tabTrigger>mq</tabTrigger>
+    <scope>source.scss</scope>
+</snippet>
