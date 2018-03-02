@@ -24,6 +24,12 @@ git clone git@github.com:sweetroll/finesse-snippets-sublime.git ~/Library/Applic
 getColour('${1}', ${2:''});
 ```
 
+### gs
+
+```
+getSpacing('${1}');
+```
+
 ### bsu
 
 ```
